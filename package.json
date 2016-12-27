@@ -1,0 +1,22 @@
+{
+  "name": "zj-lessjs",
+  "version": "1.0.0",
+  "description": "sa",
+  "main": "less.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csnikey/zj-lessjs.git"
+  },
+  "keywords": [
+    "lessminjs"
+  ],
+  "author": "zb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csnikey/zj-lessjs/issues"
+  },
+  "homepage": "https://github.com/csnikey/zj-lessjs#readme"
+}
